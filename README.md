@@ -1,3 +1,3 @@
 # eomcs.club
 
-The website for Earl of March's Computer Science Club
+The official website for Earl of March's Computer Science Club
